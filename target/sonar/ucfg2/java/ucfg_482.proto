@@ -1,21 +1,21 @@
 
 *domain.Apustua#equals(Ljava/lang/Object;)ZS
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaY Y("startingBlock*·
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaX X("startingBlock*·
 2S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java^
- ^("]
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java]
+ ]("]
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java^ ^(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java] ](
 ""*å
 3S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java] ](	½º
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java\ \(	½º
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java] ](
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java\ \(
 %0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
 domain.Apustua2
 getClass()Â¿
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java] ]($
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java\ \($
 %1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
 
 ojava.lang.Object2
@@ -23,10 +23,10 @@ getClass()*
 2
 1*’
 startingBlockS
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaY Y( ›
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaX X( ›
 ˜
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaX X(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaW W(
 
 %5"
 __annotate*
@@ -35,44 +35,44 @@ __annotate*
 ojava.lang.Object…
 ‚
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaY Y(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaX X(
 ojava.lang.Object"__annotation*
 
 %5*
 3
 4*·
 4S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java[
- [("]
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaZ
+ Z("]
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java[ [(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaZ Z(
 ""*Ø
 1S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java_ _(Œ
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java^ ^(Œ
 ‰
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java_ _(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java^ ^(
 adomain.Apustua"__id*
 
 ojava.lang.ObjectÏÌ
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java`	 `( 
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java_	 _( 
 %2java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
 domain.Apustua2getApostuaNumber()ÒÏ
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java`( `(<
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java_( _(<
 %3java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
 
 adomain.Apustua2getApostuaNumber()èå
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java`	 `(=
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java_	 _(=
 %4boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
 
 %2java.lang.Integer*
 
 %3java.lang.Integer2equals(Ljava/lang/Object;)"]
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java` `(>
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.java_ _(>
 "":
 ojava.lang.ObjectB
 domain.Apustua

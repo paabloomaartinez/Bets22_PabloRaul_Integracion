@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniDABTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.851 sec <<< FAILURE! - in emaitzakIpiniDABTest
-test1(emaitzakIpiniDABTest)  Time elapsed: 0.74 sec  <<< FAILURE!
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.898 sec <<< FAILURE! - in emaitzakIpiniDABTest
+test1(emaitzakIpiniDABTest)  Time elapsed: 0.792 sec  <<< FAILURE!
 org.junit.ComparisonFailure: expected:<[galduta]> but was:<[jokoan]>
 	at emaitzakIpiniDABTest.test1(emaitzakIpiniDABTest.java:84)
 

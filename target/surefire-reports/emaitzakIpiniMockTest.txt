@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniMockTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.787 sec <<< FAILURE! - in emaitzakIpiniMockTest
-test1(emaitzakIpiniMockTest)  Time elapsed: 0.779 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.843 sec <<< FAILURE! - in emaitzakIpiniMockTest
+test1(emaitzakIpiniMockTest)  Time elapsed: 0.833 sec  <<< FAILURE!
 org.mockito.exceptions.verification.WantedButNotInvoked: 
 
 Wanted but not invoked:
@@ -24,7 +24,7 @@ dataAccess.close();
 
 	at emaitzakIpiniMockTest.test1(emaitzakIpiniMockTest.java:41)
 
-test2(emaitzakIpiniMockTest)  Time elapsed: 0.008 sec  <<< ERROR!
+test2(emaitzakIpiniMockTest)  Time elapsed: 0.01 sec  <<< ERROR!
 org.mockito.exceptions.misusing.CannotStubVoidMethodWithReturnValue: 
 
 'EmaitzakIpini' is a *void method* and it *cannot* be stubbed with a *return value*!
