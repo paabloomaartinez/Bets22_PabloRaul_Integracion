@@ -1,16 +1,16 @@
 
-(domain.Team#getUsers()Ljava/util/Vector;X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java* *(#"1*Ì
-1X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java+	 +(ó
-î
-X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java+	 +(
+(domain.Team#getUsers()Ljava/util/Vector;P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java* *(#"1*’
+1P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java+	 +(è
+å
+P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java+	 +(
 %0java.util.Vector"__id**
 domain.Team"
-users"t
-X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java+ +(
+users"l
+P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java+ +(
 
 %0java.util.VectorB
 domain.Team

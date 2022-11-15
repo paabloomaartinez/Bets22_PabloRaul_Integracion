@@ -1,16 +1,16 @@
 
-5domain.Registered#getTransakzioak()Ljava/util/Vector;^
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaH H(+"1*Œ
-1^
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaI	 I(ª
-§
-^
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaI	 I(
+5domain.Registered#getTransakzioak()Ljava/util/Vector;V
+LC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Registered.javaH H(+"1*ô
+1V
+LC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Registered.javaI	 I(¢
+Ÿ
+V
+LC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Registered.javaI	 I(
 %0java.util.Vector"__id*'*%
 domain.Registered"
-transakzioak"z
-^
-TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Registered.javaI I(
+transakzioak"r
+V
+LC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Registered.javaI I(
 
 %0java.util.VectorB
 domain.Registered

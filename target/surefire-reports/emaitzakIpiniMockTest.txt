@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: emaitzakIpiniMockTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.881 sec <<< FAILURE! - in emaitzakIpiniMockTest
-test1(emaitzakIpiniMockTest)  Time elapsed: 0.871 sec  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 0.787 sec <<< FAILURE! - in emaitzakIpiniMockTest
+test1(emaitzakIpiniMockTest)  Time elapsed: 0.779 sec  <<< FAILURE!
 org.mockito.exceptions.verification.WantedButNotInvoked: 
 
 Wanted but not invoked:

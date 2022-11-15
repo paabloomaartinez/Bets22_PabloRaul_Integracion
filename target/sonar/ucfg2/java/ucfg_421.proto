@@ -1,67 +1,67 @@
 
-/domain.Transaction#toString()Ljava/lang/String;_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaI I("1*ﬂ
-1_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(¢
-ü
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ J(
+/domain.Transaction#toString()Ljava/lang/String;W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaI I("1*è
+1W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(ö
+ó
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ J(
 %0java.util.Date"__id* *
 domain.Transaction"
-data™
-ß
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(
+data¢
+ü
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(
 %1java.lang.String"__concat*
 
 Data: *
 
-%0java.util.DateØ
-¨
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(+
+%0java.util.Dateß
+§
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(+
 %2java.lang.String"__concat*
 
 %1java.lang.String*
-	, dirua: •
-¢
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ. J(8
+	, dirua: ù
+ö
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ. J(8
 %3java.lang.Double"__id*!*
 domain.Transaction"
-dirua∫
-∑
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(8
+dirua≤
+Ø
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(8
 %4java.lang.String"__concat*
 
 %2java.lang.String*
 
-%3java.lang.DoubleÆ
-´
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(E
+%3java.lang.Double¶
+£
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(E
 %5java.lang.String"__concat*
 
 %4java.lang.String*
 
-, mota: §
-°
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJH J(Q
+, mota: ú
+ô
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJH J(Q
 %6java.lang.String"__id* *
 domain.Transaction"
-mota∫
-∑
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(Q
+mota≤
+Ø
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ	 J(Q
 %7java.lang.String"__concat*
 
 %5java.lang.String*
 
-%6java.lang.String"{
-_
-UC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Transaction.javaJ J(R
+%6java.lang.String"s
+W
+MC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Transaction.javaJ J(R
 
 %7java.lang.StringB
 domain.Transaction

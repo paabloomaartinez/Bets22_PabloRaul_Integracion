@@ -1,16 +1,16 @@
 
-+domain.Event#getEventDate()Ljava/util/Date;Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaM M("1*Ò
-1Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaN	 N(õ
-ò
-Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaN	 N(
++domain.Event#getEventDate()Ljava/util/Date;Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.javaM M("1*Ÿ
+1Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.javaN	 N(ì
+ê
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.javaN	 N(
 %0java.util.Date"__id**
 domain.Event"
-	eventDate"s
-Y
-OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaN N(
+	eventDate"k
+Q
+GC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Event.javaN N(
 
 %0java.util.DateB
 domain.Event

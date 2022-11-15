@@ -1,16 +1,16 @@
 
-)domain.Team#getEvents()Ljava/util/Vector;X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java2 2("1*Ó
-1X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java3	 3(ò
-ï
-X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java3	 3(
+)domain.Team#getEvents()Ljava/util/Vector;P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java2 2("1*÷
+1P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java3	 3(ê
+ç
+P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java3	 3(
 %0java.util.Vector"__id**
 domain.Team"
-events"t
-X
-NC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Team.java3 3(
+events"l
+P
+FC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Team.java3 3(
 
 %0java.util.VectorB
 domain.Team

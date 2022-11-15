@@ -1,55 +1,55 @@
 
-3domain.Question#doesQuoteExist(Ljava/lang/String;)Z^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∑ ∑("5*ù
-2^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∏ ∏(Ü
-É
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∏ ∏(
+3domain.Question#doesQuoteExist(Ljava/lang/String;)ZV
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∑ ∑("5*É
+2V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∏ ∏(}
+{
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∏ ∏(
 quodomain.Quote"__id*
-""¶
-£
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∏ ∏(
+""û
+õ
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∏ ∏(
 quodomain.Quote"
 __arrayGet*
 
 %0java.util.Vector*
 ""*
 4
-1*Õ
-3^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∫ ∫("h
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∫ ∫(
-""*∏
-4^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.javaπ π(	œÃ
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.javaπ π(
+1*Ω
+3V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∫ ∫("`
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∫ ∫(
+""*†
+4V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.javaπ π(	«ƒ
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.javaπ π(
 %1java.lang.String",domain.Quote#getForecast()Ljava/lang/String;*
 
-quodomain.Quote2getForecast()¯ı
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.javaπ π(+	
+quodomain.Quote2getForecast()Ì
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.javaπ π(+	
 %2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
 
 %1java.lang.String*
 
 forecastjava.lang.String2compareTo(Ljava/lang/String;)*
 2
-3*∑
-5^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∏ ∏(Ã…
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.java∏ ∏(!
+3*ß
+5V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∏ ∏(ƒ¡
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.java∏ ∏(!
 %0java.util.Vector"-domain.Question#getQuotes()Ljava/util/Vector;*
 domain.Question2getQuotes()*
-2*Õ
-1^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.javaæ	 æ("h
-^
-RC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Question.javaæ æ(
+2*Ω
+1V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.javaæ	 æ("`
+V
+JC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Question.javaæ æ(
 "":
 forecastjava.lang.StringB
 domain.Question

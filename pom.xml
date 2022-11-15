@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>Bets22_Pablo-Raul</groupId>
-	<artifactId>Bets22_Pablo-Raul</artifactId>
+	<groupId>Bets22_PabloRaul_Integracion</groupId>
+	<artifactId>Bets22_PabloRaul_Integracion</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -49,8 +49,8 @@
 
 		<sonar.organization>pablomartinezamunarriz</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>Bets22_Pablo-Raul</sonar.projectKey>
-		<sonar.login>d40747f0fd48586240b515c6dc29cb43a9457fb2</sonar.login>
+		<sonar.projectKey>Bets22_PabloRaul_Integracion</sonar.projectKey>
+		<sonar.login>0b44f9e90b102c9cd6dc85d88c8bcda8ba46ab89</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->

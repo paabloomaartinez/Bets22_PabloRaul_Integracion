@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ApustuAnitza.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Bets22_Pablo-Raul</a> &gt; <a href="index.source.html" class="el_package">domain</a> &gt; <span class="el_source">ApustuAnitza.java</span></div><h1>ApustuAnitza.java</h1><pre class="source lang-java linenums">package domain;
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ApustuAnitza.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Bets22_PabloRaul_Integracion</a> &gt; <a href="index.source.html" class="el_package">domain</a> &gt; <span class="el_source">ApustuAnitza.java</span></div><h1>ApustuAnitza.java</h1><pre class="source lang-java linenums">package domain;
 
 import java.io.Serializable;
 import java.util.Date;
@@ -46,7 +46,7 @@ public class ApustuAnitza implements Serializable{
 <span class="fc" id="L46">	}</span>
 	
 	public Registered getUser() {
-<span class="nc" id="L49">		return user;</span>
+<span class="fc" id="L49">		return user;</span>
 	}
 
 	public void setUser(Registered user) {
@@ -54,7 +54,7 @@ public class ApustuAnitza implements Serializable{
 <span class="nc" id="L54">	}</span>
 
 	public Double getBalioa() {
-<span class="nc" id="L57">		return balioa;</span>
+<span class="fc" id="L57">		return balioa;</span>
 	}
 
 	public void setBalioa(Double balioa) {
@@ -62,7 +62,7 @@ public class ApustuAnitza implements Serializable{
 <span class="nc" id="L62">	}</span>
 
 	public Integer getApustuAnitzaNumber() {
-<span class="nc" id="L65">		return apustuAnitzaNumber;</span>
+<span class="fc" id="L65">		return apustuAnitzaNumber;</span>
 	}
 
 	public void setApustuAnitzaNumber(Integer apustuAnitzaNumber) {
@@ -78,7 +78,7 @@ public class ApustuAnitza implements Serializable{
 <span class="nc" id="L78">	}</span>
 
 	public Vector&lt;Apustua&gt; getApustuak() {
-<span class="nc" id="L81">		return apustuak;</span>
+<span class="fc" id="L81">		return apustuak;</span>
 	}
 
 	public void setApustuak(Vector&lt;Apustua&gt; apustuak) {
@@ -125,13 +125,13 @@ public class ApustuAnitza implements Serializable{
 	
 	public boolean irabazitaMarkatu() {
 <span class="pc bpc" id="L127" title="1 of 2 branches missed.">		if(this.egoera.equals(&quot;jokoan&quot;)) {</span>
-<span class="pc bpc" id="L128" title="1 of 2 branches missed.">			for(Apustua a: apustuak) {</span>
+<span class="fc bfc" id="L128" title="All 2 branches covered.">			for(Apustua a: apustuak) {</span>
 <span class="fc bfc" id="L129" title="All 2 branches covered.">				if(!a.getEgoera().equals(&quot;irabazita&quot;)) {</span>
 <span class="fc" id="L130">					return false;</span>
 				}
 <span class="fc" id="L132">			}</span>
-<span class="nc" id="L133">			this.egoera=&quot;irabazita&quot;;</span>
-<span class="nc" id="L134">			return true;</span>
+<span class="fc" id="L133">			this.egoera=&quot;irabazita&quot;;</span>
+<span class="fc" id="L134">			return true;</span>
 		}
 <span class="nc" id="L136">		return false;</span>
 	}

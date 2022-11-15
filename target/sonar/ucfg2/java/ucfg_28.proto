@@ -1,252 +1,252 @@
 
-9dataAccess.DataAccess#ApustuaEgin(Ldomain/DatosApuesta;)Zd
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÒ Ò("24*¢
-24d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ! Ó(#¹
-¶
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ! Ó(#%
+9dataAccess.DataAccess#ApustuaEgin(Ldomain/DatosApuesta;)Z\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÒ Ò("24*Ú
+24\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ! Ó(#±
+®
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ! Ó(#%
 %0javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-dbÖÓ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ; Ó(D
+dbÎË
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ; Ó(D
 %1domain.Registered"-domain.DatosApuesta#getU()Ldomain/Registered;*
 
-dadomain.DatosApuesta2getU()ŞÛ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ; Ó(R
+dadomain.DatosApuesta2getU()ÖÓ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ; Ó(R
 %2java.lang.String"1domain.Registered#getUsername()Ljava/lang/String;*
 
-%1domain.Registered2getUsername()ÕÒ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ! Ó(S
+%1domain.Registered2getUsername()ÍÊ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ! Ó(S
 %3domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
 %
 %0javax.persistence.EntityManager*
 ""*
 
-%2java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)¥
-¢
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ Ó(T
+%2java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)
+š
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÓ Ó(T
 userdomain.Registered"__id*
 
-%3domain.Registered
-Œ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÔ Ô(
+%3domain.Registered‡
+„
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÔ Ô(
 bjava.lang.Boolean"__id*
-""ŞÛ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÕ Õ(
+""ÖÓ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÕ Õ(
 %4java.lang.Double"0domain.Registered#getDirukop()Ljava/lang/Double;*
 
-userdomain.Registered2getDirukop()ÃÀ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÕ Õ(&
+userdomain.Registered2getDirukop()»¸
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÕ Õ(&
 %5double" domain.DatosApuesta#getBalioa()D*
 
 dadomain.DatosApuesta2getBalioa()*
 1
-23*
-13d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(Š
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(
+23*æ
+13\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(…‚
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javañ ñ(
 %54void"7domain.Registered#addTransaction(Ldomain/Transaction;)V*
 
 userdomain.Registered*
 
-tdomain.Transaction2$addTransaction(Ldomain/Transaction;)º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(&
+tdomain.Transaction2$addTransaction(Ldomain/Transaction;)²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(&
 %55javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db–“
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(
+db‹
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò(
 %56void"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %55javax.persistence.EntityManager*
 
-tdomain.Transaction2persist(Ljava/lang/Object;)º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(&
+tdomain.Transaction2persist(Ljava/lang/Object;)²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(&
 %57javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db¨¥
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(*
+db 
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(*
 %58#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
 &
-%57javax.persistence.EntityManager2getTransaction()İÚ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(
+%57javax.persistence.EntityManager2getTransaction()ÕÒ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(
 %59void"-javax.persistence.EntityTransaction#commit()V*,
 *
 %58#javax.persistence.EntityTransaction2commit()*
-12*³
-14d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(Œ
-‰
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(
+12*›
+14\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(„
+
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(
 adomain.Apustua"__id*
-""­
-ª
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(
+""¥
+¢
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(
 adomain.Apustua"
 __arrayGet*
 
 %41java.util.Vector*
 ""*
 13
-15*ã
-15d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(&
+15*ã
+15\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(&
 %42javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-dbäá
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë) ë(=
+dbÜÙ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaë) ë(=
 %43java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
 
-adomain.Apustua2getApostuaNumber()ÖÓ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(>
+adomain.Apustua2getApostuaNumber()ÎË
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(>
 %44domain.Apustua"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*(
 &
 %42javax.persistence.EntityManager*
 ""*
 
-%43java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)Ÿ
-œ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(?
+%43java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)—
+”
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaë ë(?
 apudomain.Apustua"__id*
 
-%44domain.Apustuaº
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(&
+%44domain.Apustua²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(&
 %45javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-dbÌÉ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaì# ì(1
+dbÄÁ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaì# ì(1
 %46domain.Quote"'domain.Apustua#getKuota()Ldomain/Quote;*
 
 apudomain.Apustua2
-getKuota()ŞÛ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaì# ì(B
+getKuota()ÖÓ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaì# ì(B
 %47java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
 
-%46domain.Quote2getQuoteNumber()ÔÑ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(C
+%46domain.Quote2getQuoteNumber()ÌÉ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(C
 %48domain.Quote"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*(
 &
 %45javax.persistence.EntityManager*
 ""*
 
-%47java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)™
-–
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(D
+%47java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)‘
+
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaì ì(D
 qdomain.Quote"__id*
 
-%48domain.QuoteÒÏ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(
+%48domain.QuoteÊÇ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(
 %49domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
 
-qdomain.Quote2getQuestion()ÎË
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í()
+qdomain.Quote2getQuestion()ÆÃ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í()
 %50domain.Event"(domain.Question#getEvent()Ldomain/Event;*
 
 %49domain.Question2
-getEvent()ÈÅ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(4
+getEvent()À½
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(4
 %51domain.Sport"%domain.Event#getSport()Ldomain/Sport;*
 
 %50domain.Event2
-getSport()›
-˜
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(5
+getSport()“
+
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaí í(5
 spodomain.Sport"__id*
 
-%51domain.Sportèå
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaî î(5
+%51domain.Sportàİ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaî î(5
 %52java.lang.Integer"5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;*
 
-spodomain.Sport2getApustuKantitatea()÷ô
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaî î(8
+spodomain.Sport2getApustuKantitatea()ïì
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaî î(8
 %53void"6domain.Sport#setApustuKantitatea(Ljava/lang/Integer;)V*
 
 spodomain.Sport*
 ""2(setApustuKantitatea(Ljava/lang/Integer;)*
-14*à
-16d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(íê
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(,
+14*Ğ
+16\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(åâ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaê ê(,
 %41java.util.Vector"3domain.ApustuAnitza#getApustuak()Ljava/util/Vector;*%
 #
 apustuAnitzadomain.ApustuAnitza2getApustuak()*
-14*ô
-17d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaæ æ(„
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaæ æ(6
+14*œ
+17\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaæ æ(üù
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaæ æ(6
 %32void"8domain.ApustuAnitza#setApustuKopia(Ljava/lang/Integer;)V*%
 #
 apustuAnitzadomain.ApustuAnitza*
-""2#setApustuKopia(Ljava/lang/Integer;)ÄÁ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç('
+""2#setApustuKopia(Ljava/lang/Integer;)¼¹
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç('
 %33double" domain.DatosApuesta#getBalioa()D*
 
-dadomain.DatosApuesta2getBalioa()ƒ€
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç((
+dadomain.DatosApuesta2getBalioa()ûø
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaç ç((
 %34void"7domain.Registered#updateDiruKontua(Ljava/lang/Double;)V*
 
 userdomain.Registered*
 
-%33double2$updateDiruKontua(Ljava/lang/Double;)ÄÁ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè) è(7
+%33double2$updateDiruKontua(Ljava/lang/Double;)¼¹
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaè) è(7
 %35double" domain.DatosApuesta#getBalioa()D*
 
-dadomain.DatosApuesta2getBalioa()
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè= è(A
-%36java.util.Date"java.util.Date£
- 
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè9 è(C
+dadomain.DatosApuesta2getBalioa()ˆ…
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaè= è(A
+%36java.util.Date"java.util.Date›
+˜
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaè9 è(C
 %37"java.util.Date#<init>()V*
 
-%36java.util.Date˜•
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è("
-%38domain.Transaction"domain.TransactionÊ
-Ç
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(S
+%36java.util.Date
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è("
+%38domain.Transaction"domain.TransactionÂ
+¿
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(S
 %39"cdomain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V*
 
 %38domain.Transaction*
@@ -256,132 +256,132 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 %35double*
 
 %36java.util.Date*
-ApustuaEgin¥
-¢
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(T
+ApustuaEgin
+š
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaè è(T
 tdomain.Transaction"__id*
 
-%38domain.Transactionš
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é(%
+%38domain.Transaction•’
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaé é(%
 %40void"9domain.Registered#addApustuAnitza(Ldomain/ApustuAnitza;)V*
 
 userdomain.Registered*%
 #
 apustuAnitzadomain.ApustuAnitza2&addApustuAnitza(Ldomain/ApustuAnitza;)*
-16*ö
-18d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaä ä('ƒ€
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaä ä(?
+16*æ
+18\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaä ä('ûø
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaä ä(?
 %31java.lang.Integer">domain.ApustuAnitza#getApustuAnitzaNumber()Ljava/lang/Integer;*%
 #
 apustuAnitzadomain.ApustuAnitza2getApustuAnitzaNumber()*
-17*Ø
-19d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(&
+17*˜
+19\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(&
 %24javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db¨¥
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(*
+db 
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(*
 %25#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
 &
-%24javax.persistence.EntityManager2getTransaction()İÚ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(
+%24javax.persistence.EntityManager2getTransaction()ÕÒ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaà à(
 %26void"-javax.persistence.EntityTransaction#commit()V*,
 *
-%25#javax.persistence.EntityTransaction2commit()º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(&
+%25#javax.persistence.EntityTransaction2commit()²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(&
 %27javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db¨¥
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(*
+db 
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(*
 %28#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*(
 &
-%27javax.persistence.EntityManager2getTransaction()ÛØ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(
+%27javax.persistence.EntityManager2getTransaction()ÓĞ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaá á(
 %29void",javax.persistence.EntityTransaction#begin()V*,
 *
-%28#javax.persistence.EntityTransaction2begin()ÓĞ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaâ  â(7
+%28#javax.persistence.EntityTransaction2begin()ËÈ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaâ  â(7
 
 %30int")domain.DatosApuesta#getApustuaGalarazi()I*
 
 dadomain.DatosApuesta2getApustuaGalarazi()*
 17
-18*Ù
-1d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java†
- †("n
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java† †(
-""*Á
-2d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(”
-‘
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
+18*É
+1\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java†
+ †("f
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java† †(
+""*©
+2\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(Œ
+‰
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
 regdomain.Jarraitzailea"__id*
-""µ
-²
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
+""­
+ª
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
 regdomain.Jarraitzailea"
 __arrayGet*
 
 %60java.util.Vector*
 ""*
 11
-1*‚
-3d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java‚ ‚(
-‘
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java‚ ‚(
+1*ò
+3\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java‚ ‚(
+‰†
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java‚ ‚(
 %83boolean"9dataAccess.DataAccess#ApustuaEgin(Ldomain/DatosApuesta;)Z*
 dataAccess.DataAccess*
 
 da2domain.DatosApuesta2"ApustuaEgin(Ldomain/DatosApuesta;)*
-2*…
-4d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ) ÿ(-áŞ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ) ÿ(7
+2*½
+4\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ) ÿ(-ÙÖ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ) ÿ(7
 %76domain.Registered"1domain.Jarraitzailea#getNork()Ldomain/Registered;*
 
-erabdomain.Jarraitzailea2	getNork()ÕÒ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ9 ÿ(B
+erabdomain.Jarraitzailea2	getNork()ÍÊ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ9 ÿ(B
 %77java.util.Vector",domain.DatosApuesta#getQ()Ljava/util/Vector;*
 
-dadomain.DatosApuesta2getQ()áŞ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿD ÿ(R
+dadomain.DatosApuesta2getQ()ÙÖ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿD ÿ(R
 %78domain.Registered"1domain.Jarraitzailea#getNork()Ldomain/Registered;*
 
-erabdomain.Jarraitzailea2	getNork()æã
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿD ÿ(c
+erabdomain.Jarraitzailea2	getNork()ŞÛ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿD ÿ(c
 %79java.lang.Double"4domain.Registered#getDiruLimitea()Ljava/lang/Double;*
 
-%78domain.Registered2getDiruLimitea()š—
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ((
-%80domain.DatosApuesta"domain.DatosApuesta®
-«
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ(|
+%78domain.Registered2getDiruLimitea()’
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ((
+%80domain.DatosApuesta"domain.DatosApuesta¦
+£
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ(|
 %81"Ddomain.DatosApuesta#<init>(Ldomain/Registered;Ljava/util/Vector;DI)V*
 
 %80domain.DatosApuesta*
@@ -391,43 +391,43 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 %77java.util.Vector*
 
 %79java.lang.Double*
-""©
-¦
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ(}
+""¡
+
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ(}
 da1domain.DatosApuesta"__id*
 
-%80domain.DatosApuesta‘
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java€ €(
+%80domain.DatosApuesta‰†
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java€ €(
 %82boolean"9dataAccess.DataAccess#ApustuaEgin(Ldomain/DatosApuesta;)Z*
 dataAccess.DataAccess*
 
 da1domain.DatosApuesta2"ApustuaEgin(Ldomain/DatosApuesta;)*
-2*ø
-5d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaı' ı(+áŞ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaı' ı(5
+2*¨
+5\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaı' ı(+ÙÖ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaı' ı(5
 %68domain.Registered"1domain.Jarraitzailea#getNork()Ldomain/Registered;*
 
-erabdomain.Jarraitzailea2	getNork()ÕÒ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaı7 ı(@
+erabdomain.Jarraitzailea2	getNork()ÍÊ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaı7 ı(@
 %69java.util.Vector",domain.DatosApuesta#getQ()Ljava/util/Vector;*
 
-dadomain.DatosApuesta2getQ()ÄÁ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaıB ı(P
+dadomain.DatosApuesta2getQ()¼¹
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaıB ı(P
 %70double" domain.DatosApuesta#getBalioa()D*
 
-dadomain.DatosApuesta2getBalioa()š—
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaı ı(&
-%71domain.DatosApuesta"domain.DatosApuesta¤
-¡
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaı ı(i
+dadomain.DatosApuesta2getBalioa()’
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaı ı(&
+%71domain.DatosApuesta"domain.DatosApuestaœ
+™
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaı ı(i
 %72"Ddomain.DatosApuesta#<init>(Ldomain/Registered;Ljava/util/Vector;DI)V*
 
 %71domain.DatosApuesta*
@@ -437,40 +437,40 @@ XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAc
 %69java.util.Vector*
 
 %70double*
-""©
-¦
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaı ı(j
+""¡
+
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaı ı(j
 da2domain.DatosApuesta"__id*
 
-%71domain.DatosApuestaáŞ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaş ş(
+%71domain.DatosApuestaÙÖ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaş ş(
 %73domain.Registered"1domain.Jarraitzailea#getNork()Ldomain/Registered;*
 
-erabdomain.Jarraitzailea2	getNork()æã
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaş ş('
+erabdomain.Jarraitzailea2	getNork()ŞÛ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaş ş('
 %74java.lang.Double"4domain.Registered#getDiruLimitea()Ljava/lang/Double;*
 
-%73domain.Registered2getDiruLimitea()ÄÁ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaş( ş(6
+%73domain.Registered2getDiruLimitea()¼¹
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaş( ş(6
 %75double" domain.DatosApuesta#getBalioa()D*
 
 dadomain.DatosApuesta2getBalioa()*
 3
-4*Á
-7d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(“
-
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(
+4*©
+7\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(‹
+ˆ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(
 apudomain.ApustuAnitza"__id*
-""´
-±
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(
+""¬
+©
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(
 apudomain.ApustuAnitza"
 __arrayGet*
 
@@ -478,234 +478,234 @@ __arrayGet*
 ""*	
 2
 5
-9*ü
-8d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(‹
-ˆ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(
+9*ì
+8\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(ƒ
+€
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(
 bjava.lang.Boolean"__id*2 *
-7*Ø
-9d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(ìé
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(
+7*À
+9\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(äá
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(
 %66java.lang.Integer"7domain.ApustuAnitza#getApustuKopia()Ljava/lang/Integer;*
 
-apudomain.ApustuAnitza2getApustuKopia()õò
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(;
+apudomain.ApustuAnitza2getApustuKopia()íê
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(;
 %67java.lang.Integer"7domain.ApustuAnitza#getApustuKopia()Ljava/lang/Integer;*%
 #
 apustuAnitzadomain.ApustuAnitza2getApustuKopia()*
 7
-8*³
-20d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(Œ
-‰
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(
+8*›
+20\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(„
+
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(
 quodomain.Quote"__id*
-""­
-ª
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(
+""¥
+¢
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(
 quodomain.Quote"
 __arrayGet*
 
 %14java.util.Vector*
 ""*
 19
-21*’
-21d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(&
+21*²
+21\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(&
 %15javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-dbŞÛ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ' Ú(;
+dbÖÓ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ' Ú(;
 %16java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
 
-quodomain.Quote2getQuoteNumber()ÔÑ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(<
+quodomain.Quote2getQuoteNumber()ÌÉ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(<
 %17domain.Quote"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*(
 &
 %15javax.persistence.EntityManager*
 ""*
 
-%16java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)
-š
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(=
+%16java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)•
+’
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÚ Ú(=
 kuotedomain.Quote"__id*
 
-%17domain.Quote
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÛ Û(
-%18domain.Apustua"domain.Apustua†
-ƒ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÛ Û(1
+%17domain.Quoteˆ…
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÛ Û(
+%18domain.Apustua"domain.Apustuaş
+û
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÛ Û(1
 %19";domain.Apustua#<init>(Ldomain/ApustuAnitza;Ldomain/Quote;)V*
 
 %18domain.Apustua*%
 #
 apustuAnitzadomain.ApustuAnitza*
 
-kuotedomain.Quote
-›
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÛ Û(2
+kuotedomain.Quote–
+“
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÛ Û(2
 apdomain.Apustua"__id*
 
-%18domain.Apustuaº
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÜ Ü(&
+%18domain.Apustua²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÜ Ü(&
 %20javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db“
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÜ Ü(
+db‹ˆ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÜ Ü(
 %21void"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %20javax.persistence.EntityManager*
 
-apdomain.Apustua2persist(Ljava/lang/Object;)†ƒ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaİ İ(
+apdomain.Apustua2persist(Ljava/lang/Object;)şû
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaİ İ(
 %22void"1domain.ApustuAnitza#addApustua(Ldomain/Apustua;)V*%
 #
 apustuAnitzadomain.ApustuAnitza*
 
-apdomain.Apustua2addApustua(Ldomain/Apustua;)ñî
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaŞ Ş(
+apdomain.Apustua2addApustua(Ldomain/Apustua;)éæ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaŞ Ş(
 %23void"*domain.Quote#addApustua(Ldomain/Apustua;)V*
 
 kuotedomain.Quote*
 
 apdomain.Apustua2addApustua(Ldomain/Apustua;)*
-20*À
-10d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(áŞ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷((
+20*¨
+10\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(ÙÖ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷((
 %64domain.Registered"1domain.Jarraitzailea#getNork()Ldomain/Registered;*
 
-erabdomain.Jarraitzailea2	getNork()êç
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(;
+erabdomain.Jarraitzailea2	getNork()âß
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(;
 %65java.util.Vector"6domain.Registered#getApustuAnitzak()Ljava/util/Vector;*
 
 %64domain.Registered2getApustuAnitzak()*
-7*È
-22d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(ÕÒ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(
+7*¸
+22\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(ÍÊ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÙ Ù(
 %14java.util.Vector",domain.DatosApuesta#getQ()Ljava/util/Vector;*
 
 dadomain.DatosApuesta2getQ()*
-20*Ì	
-11d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(º
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(&
+20*œ	
+11\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(&
 %61javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-dbşû
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ4 õ(P
+dböó
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ4 õ(P
 %62java.lang.Integer"@domain.Jarraitzailea#getJarraitzaileaNumber()Ljava/lang/Integer;*
 
-regdomain.Jarraitzailea2getJarraitzaileaNumber()ÜÙ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(Q
+regdomain.Jarraitzailea2getJarraitzaileaNumber()ÔÑ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(Q
 %63domain.Jarraitzailea"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*(
 &
 %61javax.persistence.EntityManager*
 ""*
 
-%62java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)¬
-©
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(R
+%62java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)¤
+¡
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(R
 erabdomain.Jarraitzailea"__id*
 
-%63domain.Jarraitzailea
-Š
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaö ö(
+%63domain.Jarraitzailea…
+‚
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaö ö(
 
 bjava.lang.Boolean"__id*2*
-10*­
-23d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(¹
-¶
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(%
+10*İ
+23\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(±
+®
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(%
 %6javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db¦£
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö()
+db›
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö()
 %7#javax.persistence.EntityTransaction"Ujavax.persistence.EntityManager#getTransaction()Ljavax/persistence/EntityTransaction;*'
 %
-%6javax.persistence.EntityManager2getTransaction()ÙÖ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(
+%6javax.persistence.EntityManager2getTransaction()ÑÎ
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaÖ Ö(
 
 %8void",javax.persistence.EntityTransaction#begin()V*+
 )
-%7#javax.persistence.EntityTransaction2begin()ÃÀ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java×6 ×(D
+%7#javax.persistence.EntityTransaction2begin()»¸
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java×6 ×(D
 %9double" domain.DatosApuesta#getBalioa()D*
 
-dadomain.DatosApuesta2getBalioa()š—
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java×# ×(/
-%10domain.ApustuAnitza"domain.ApustuAnitzaÿ
-ü
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java× ×(E
+dadomain.DatosApuesta2getBalioa()’
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java×# ×(/
+%10domain.ApustuAnitza"domain.ApustuAnitza÷
+ô
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java× ×(E
 %11"Bdomain.ApustuAnitza#<init>(Ldomain/Registered;Ljava/lang/Double;)V*
 
 %10domain.ApustuAnitza*
 
 userdomain.Registered*
 
-%9double²
-¯
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java× ×(F#
+%9doubleª
+§
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.java× ×(F#
 apustuAnitzadomain.ApustuAnitza"__id*
 
-%10domain.ApustuAnitzaº
-·
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaØ Ø(&
+%10domain.ApustuAnitza²
+¯
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaØ Ø(&
 %12javax.persistence.EntityManager"__id*!*
 dataAccess.DataAccess"
-db¢Ÿ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaØ Ø(
+dbš—
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaØ Ø(
 %13void"<javax.persistence.EntityManager#persist(Ljava/lang/Object;)V*(
 &
 %12javax.persistence.EntityManager*%
 #
 apustuAnitzadomain.ApustuAnitza2persist(Ljava/lang/Object;)*
-22*å
-12d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(óğ
-d
-XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(4
+22*Õ
+12\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(ëè
+\
+PC:/Users/USER/Escritorio/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(4
 %60java.util.Vector":domain.Registered#getJarraitzaileLista()Ljava/util/Vector;*
 
 userdomain.Registered2getJarraitzaileLista()*
