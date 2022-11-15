@@ -1,0 +1,87 @@
+
+BdataAccess.DataAccess#getEventsTeam(Ldomain/Team;)Ljava/util/List;d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaž	 ž	(!"1*í
+1d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaŸ		 Ÿ	(¹
+¶
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaŸ		 Ÿ	(%
+%0javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbÎË
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaŸ	 Ÿ	(,
+%1java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+teamdomain.Team2
+getIzena()ÏÌ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaŸ		 Ÿ	(-
+%2domain.Team"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
+%
+%0javax.persistence.EntityManager*
+""*
+
+%1java.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)–
+“
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaŸ	 Ÿ	(.
+tdomain.Team"__id*
+
+%2domain.Team¹
+¶
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java 	  	(%
+%3javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbÃÀ
+e
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java 	  	(–"
+%4javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+%
+%3javax.persistence.EntityManager*`^
+\SELECT ev FROM Event ev WHERE ev.getLokala().getIzena()=?1 OR ev.getKanpokoa().getIzena()=?2*
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)½
+º
+e
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java 	  	(—%
+queryjavax.persistence.TypedQuery"__id*$
+"
+%4javax.persistence.TypedQueryËÈ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java¡	 ¡	($
+%5java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+tdomain.Team2
+getIzena()×Ô
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java¡	 ¡	(%"
+%6javax.persistence.TypedQuery"\javax.persistence.TypedQuery#setParameter(ILjava/lang/Object;)Ljavax/persistence/TypedQuery;*'
+%
+queryjavax.persistence.TypedQuery*2*
+
+%5java.lang.String2!setParameter(ILjava/lang/Object;)ËÈ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java¢	 ¢	($
+%7java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+tdomain.Team2
+getIzena()×Ô
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java¢	 ¢	(%"
+%8javax.persistence.TypedQuery"\javax.persistence.TypedQuery#setParameter(ILjava/lang/Object;)Ljavax/persistence/TypedQuery;*'
+%
+queryjavax.persistence.TypedQuery*2*
+
+%7java.lang.String2!setParameter(ILjava/lang/Object;)÷ô
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java£		 £	(
+%9java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*'
+%
+queryjavax.persistence.TypedQuery2getResultList()"~
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java£	 £	(
+
+%9java.util.List:
+teamdomain.TeamB
+dataAccess.DataAccess

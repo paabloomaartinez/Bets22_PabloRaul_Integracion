@@ -1,0 +1,129 @@
+
+3gui.AdminGUI#getBtnNewButton()Ljavax/swing/JButton;g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaº º( "3*¡
+2g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaæ æ(,ã
+à
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaæ æ(C
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas†ù
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaæ æ(\
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+KuotakIpini2getString(Ljava/lang/String;)úô
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaæ æ(
+%3javax.swing.JButton"javax.swing.JButton⁄
+◊
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaæ æ(]
+%4"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JButton*
+
+%2java.lang.String±
+Æ
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaæ æ(] 
+gui.AdminGUI"
+btnNewButton"__id*
+
+%3javax.swing.JButton±
+Æ
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaø ø(
+%5javax.swing.JButton"__id*"* 
+gui.AdminGUI"
+btnNewButtonê
+ç
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaø ø((
+%6java.awt.Color"__id*
+""áÑ
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaø ø()
+
+%7void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%5javax.swing.JButton*
+
+%6java.awt.Color2setBackground(Ljava/awt/Color;)±
+Æ
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¿ ¿(
+%8javax.swing.JButton"__id*"* 
+gui.AdminGUI"
+btnNewButtonê
+ç
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¿ ¿(-
+%9java.awt.Color"__id*
+""àÖ
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¿ ¿(.
+%10void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%8javax.swing.JButton*
+
+%9java.awt.Color2setForeground(Ljava/awt/Color;)≤
+Ø
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¡ ¡(
+%11javax.swing.JButton"__id*"* 
+gui.AdminGUI"
+btnNewButtonÁ‰
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¡ ¡(+
+%12void"#java.awt.Component#setBounds(IIII)V*
+
+%11javax.swing.JButton*2Ô*2,*2Ë*22setBounds(IIII)≤
+Ø
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¬ ¬(
+%13javax.swing.JButton"__id*"* 
+gui.AdminGUI"
+btnNewButtonìê
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¬& ¬(4
+%14gui.AdminGUI$5"gui.AdminGUI$5®
+•
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¬" «(
+%15"java.lang.Object#<init>()V*
+
+%14gui.AdminGUI$5¥±
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java¬ «(
+%16void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%13javax.swing.JButton*
+
+%14gui.AdminGUI$522addActionListener(Ljava/awt/event/ActionListener;)*
+1*®
+3g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaΩ Ω(±
+Æ
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.javaΩ Ω(
+%0javax.swing.JButton"__id*"* 
+gui.AdminGUI"
+btnNewButton*
+2
+1*´
+1g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java…	 …(≤
+Ø
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java…	 …(
+%17javax.swing.JButton"__id*"* 
+gui.AdminGUI"
+btnNewButton"á
+g
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/AdminGUI.java… …(
+
+%17javax.swing.JButtonB
+gui.AdminGUI

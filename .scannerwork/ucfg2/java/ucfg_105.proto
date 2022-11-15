@@ -1,0 +1,172 @@
+
+>gui.RegisteredGUI#getJButtonApustuaEgin()Ljavax/swing/JButton;l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java± ±(&"3*›(
+2l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java≥ ≥(%°û
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java≥ ≥(#
+%1javax.swing.JButton"javax.swing.JButton≥
+∞
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java≥ ≥(%
+%2"javax.swing.JButton#<init>()V*
+
+%1javax.swing.JButton¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java≥ ≥(%+
+gui.RegisteredGUI"
+jButtonApustuaEgin"__id*
+
+%1javax.swing.JButton¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¥ ¥(
+%3javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEginä
+á
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¥1 ¥(;	
+%4int"__id*
+""ïí
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¥" ¥(&
+%5java.awt.Font"java.awt.Font⁄
+◊
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¥ ¥(@
+%6"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%5java.awt.Font*
+
+Tahoma*
+	
+%4int*2˝˙
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¥ ¥(A
+
+%7void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%3javax.swing.JButton*
+
+%5java.awt.Font2setFont(Ljava/awt/Font;)¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaµ µ(
+%8javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEginï
+í
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaµ$ µ(.
+%9java.awt.Color"__id*
+""çä
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaµ µ(/
+%10void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%8javax.swing.JButton*
+
+%9java.awt.Color2setBackground(Ljava/awt/Color;)¬
+ø
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∂ ∂(
+%11javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEginñ
+ì
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∂$ ∂(3
+%12java.awt.Color"__id*
+""èå
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∂ ∂(4
+%13void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%11javax.swing.JButton*
+
+%12java.awt.Color2setForeground(Ljava/awt/Color;)¬
+ø
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∑ ∑(
+%14javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEginë
+é
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∑ ∑(C
+%15java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasß§
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∑ ∑(\
+%16java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%15java.util.ResourceBundle*
+ApustuaEgin2getString(Ljava/lang/String;)çä
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∑ ∑(]
+%17void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%14javax.swing.JButton*
+
+%16java.lang.String2setText(Ljava/lang/String;)¬
+ø
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∏ ∏(
+%18javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEgin¢ü
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∏, ∏(:
+%19gui.RegisteredGUI$4"gui.RegisteredGUI$4≤
+Ø
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∏( Ω(
+%20"java.lang.Object#<init>()V*
+
+%19gui.RegisteredGUI$4æª
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java∏ Ω(
+%21void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%18javax.swing.JButton*
+
+%19gui.RegisteredGUI$422addActionListener(Ljava/awt/event/ActionListener;)¬
+ø
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaæ æ(
+%22javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEginÏÈ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaæ æ(1
+%23void"#java.awt.Component#setBounds(IIII)V*
+
+%22javax.swing.JButton*2
+*2”*2ö*2D2setBounds(IIII)*
+1*Ω
+3l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java≤ ≤(¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java≤ ≤(
+%0javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEgin*
+2
+1*≈
+1l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¿	 ¿(¬
+ø
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¿	 ¿(
+%24javax.swing.JButton"__id*-*+
+gui.RegisteredGUI"
+jButtonApustuaEgin"å
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.java¿ ¿(
+
+%24javax.swing.JButtonB
+gui.RegisteredGUI

@@ -1,0 +1,51 @@
+
+(domain.Quote#equals(Ljava/lang/Object;)Ze
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javan n("startingBlock*µ
+2e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javap p(œ
+™
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javap p(
+qdomain.Quote"__id*
+
+ojava.lang.ObjectÙÖ
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javaq
+ q(
+%0java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+domain.Quote2getQuoteNumber()ÜÙ
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javaq! q(3
+%1java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+qdomain.Quote2getQuoteNumber()"o
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javaq q(4
+""*È
+startingBlocke
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javan n( ­
+ª
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javam m(
+
+%2"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object—
+”
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javan n(
+ojava.lang.Object"__annotation*
+
+%2*
+2
+1*Û
+1e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javas
+ s("o
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Quote.javas s(
+"":
+ojava.lang.ObjectB
+domain.Quote

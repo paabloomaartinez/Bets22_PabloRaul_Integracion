@@ -1,0 +1,63 @@
+
+(domain.Sport#equals(Ljava/lang/Object;)Ze
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaJ J("startingBlock*€
+2e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaM
+ M("o
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaM M(
+""*í
+3e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaK K(ù
+ö
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaK K(
+spdomain.Sport"__id*
+
+ojava.lang.Object*
+2
+1*≈
+startingBlocke
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaJ J( ≠
+™
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaI I(
+
+%3"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Objectó
+î
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaJ J(
+ojava.lang.Object"__annotation*
+
+%3*
+3*œ
+1e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaO	 O(•
+¢
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaO	 O(
+%0java.lang.String"__id**
+domain.Sport"
+izenaœÃ
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaO O((
+%1java.lang.String")domain.Sport#getIzena()Ljava/lang/String;*
+
+spdomain.Sport2
+getIzena()˜Ù
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaO	 O()
+%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%0java.lang.String*
+
+%1java.lang.String2equals(Ljava/lang/Object;)"o
+e
+[C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Sport.javaO O(*
+"":
+ojava.lang.ObjectB
+domain.Sport

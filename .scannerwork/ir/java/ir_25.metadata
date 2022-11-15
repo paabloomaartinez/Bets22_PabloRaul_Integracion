@@ -1,0 +1,6 @@
+dataAccess.DataAccess#ApustuaEgin(LRegistered;Ljava/util/Vector;Ljava/lang/Double;Ljava/lang/Integer;)Z
+null
+domain.ApustuAnitza#<init>(LRegistered;Ljava/lang/Double;)V
+domain.ApustuAnitza#instance-init#
+java.util.Date#<init>()V
+java.util.Date#instance-init#

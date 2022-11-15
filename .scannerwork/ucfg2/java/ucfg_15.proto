@@ -1,0 +1,27 @@
+
+=dataAccess.DataAccess#findSport(Ldomain/Event;)Ldomain/Sport;p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaå å("1*Ÿ
+1p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaç ç(Á‰
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaç" ç(4
+%0java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
+
+qdomain.Event2getEventNumber()ó
+î
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaç ç(6
+spdomain.Event"__id*
+""“œ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaé	 é(
+%1domain.Sport"%domain.Event#getSport()Ldomain/Sport;*
+
+spdomain.Event2
+getSport()"à
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaé é(
+
+%1domain.Sport:
+qdomain.EventB
+dataAccess.DataAccess

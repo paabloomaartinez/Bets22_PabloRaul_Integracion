@@ -1,0 +1,142 @@
+
+-gui.AdminGUI#getBoton2()Ljavax/swing/JButton;Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java} }("3*Ä
+2Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java (%éã
+Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java (#
+%1javax.swing.JButton"javax.swing.JButton†
+ù
+Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java (%
+%2"javax.swing.JButton#<init>()V*
+
+%1javax.swing.JButton©
+¶
+Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java (%&
+gui.AdminGUI"
+jButtonCreateQuery"__id*
+
+%1javax.swing.JButton´
+®
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÄ Ä(
+%3javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQueryÑ
+Å
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÄ$ Ä(3
+%4java.awt.Color"__id*
+""˚¯
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÄ Ä(4
+
+%5void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%3javax.swing.JButton*
+
+%4java.awt.Color2setForeground(Ljava/awt/Color;)´
+®
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÅ Å(
+%6javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQueryÑ
+Å
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÅ$ Å(.
+%7java.awt.Color"__id*
+""˚¯
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÅ Å(/
+
+%8void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%6javax.swing.JButton*
+
+%7java.awt.Color2setBackground(Ljava/awt/Color;)´
+®
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÇ Ç(
+%9javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQueryŸ÷
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÇ Ç(0
+%10void"#java.awt.Component#setBounds(IIII)V*
+
+%9javax.swing.JButton*2
+*2T*2’*22setBounds(IIII)¨
+©
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÉ É(
+%11javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQueryÄ
+˝
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÉ É(C
+%12java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasñì
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÉ É(\
+%13java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;*!
+
+%12java.util.ResourceBundle*
+CreateQuery2getString(Ljava/lang/String;)¸˘
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÉ É(]
+%14void"7javax.swing.AbstractButton#setText(Ljava/lang/String;)V*
+
+%11javax.swing.JButton*
+
+%13java.lang.String2setText(Ljava/lang/String;)¨
+©
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÑ Ñ(
+%15javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQueryáÑ
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÑ, Ñ(I
+%16gui.AdminGUI$3"gui.AdminGUI$3ú
+ô
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÑ( â(
+%17"java.lang.Object#<init>()V*
+
+%16gui.AdminGUI$3®•
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaÑ â(
+%18void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%15javax.swing.JButton*
+
+%16gui.AdminGUI$322addActionListener(Ljava/awt/event/ActionListener;)*
+1*í
+3Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java~ ~(©
+¶
+Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.java~ ~(
+%0javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQuery*
+2
+1*å
+1[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaã	 ã(¨
+©
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaã	 ã(
+%19javax.swing.JButton"__id*(*&
+gui.AdminGUI"
+jButtonCreateQuery"{
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/AdminGUI.javaã ã(
+
+%19javax.swing.JButtonB
+gui.AdminGUI

@@ -1,0 +1,270 @@
+
+6dataAccess.DataAccess#gertaeraEzabatu(Ldomain/Event;)Zp
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java— —("22*ø
+13p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java· ·(Ω∫
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java· ·( 	
+%7int"java.util.List#size()I*
+
+listQUOjava.util.List2size()*
+12
+1*ã
+14p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaﬁ ﬁ( ÎË
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaﬂ ﬂ(0
+%6java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
+
+eventdomain.Event2getEventNumber()û
+õ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‡ ‡(0
+listQUOjava.util.List"__id*
+""*
+13*Æ
+15p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java› ›(õò
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java› ›(
+%2java.util.Date"java.util.Date≠
+™
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java› ›(
+%3"java.util.Date#<init>()V*
+
+%2java.util.Date·ﬁ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java›  ›(4
+%4java.util.Date"+domain.Event#getEventDate()Ljava/util/Date;*
+
+eventdomain.Event2getEventDate()˙˜
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java› ›(5	
+%5int"+java.util.Date#compareTo(Ljava/util/Date;)I*
+
+%2java.util.Date*
+
+%4java.util.Date2compareTo(Ljava/util/Date;)*
+14
+1*Ú
+16p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‹
+ ‹("z
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‹ ‹(
+""*›
+18p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java÷ ÷(ô
+ñ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java÷ ÷(
+qdomain.Question"__id*
+""∫
+∑
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java÷ ÷(
+qdomain.Question"
+__arrayGet*
+
+listQjava.util.List*
+""*
+15
+16
+20*Ò
+1p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaˆ ˆ("z
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java˘ ˘(
+""*π
+4p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÓ Ó(‡›
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÔ Ô(!
+%22domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+quodomain.Quote2getQuestion()⁄◊
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÔ Ô(,
+%23domain.Event"(domain.Question#getEvent()Ldomain/Event;*
+
+%22domain.Question2
+getEvent()‘—
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÔ Ô(7
+%24domain.Sport"%domain.Event#getSport()Ldomain/Sport;*
+
+%23domain.Event2
+getSport()ß
+§
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÔ Ô(8
+spodomain.Sport"__id*
+
+%24domain.SportÙÒ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java (6
+%25java.lang.Integer"5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;*
+
+spodomain.Sport2getApustuKantitatea()ÉÄ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java (9
+%26void"6domain.Sport#setApustuKantitatea(Ljava/lang/Integer;)V*
+
+spodomain.Sport*
+""2(setApustuKantitatea(Ljava/lang/Integer;)*
+11*ù
+5p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÏ Ï(
+†ù
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÏ Ï(
+%21void"<dataAccess.DataAccess#ApustuaIrabazi(Ldomain/ApustuAnitza;)V*
+dataAccess.DataAccess*
+
+ap1domain.ApustuAnitza2%ApustuaIrabazi(Ldomain/ApustuAnitza;)*
+4*‡
+6p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÎ. Î(1‡›
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÎ. Î(D
+%20boolean"'domain.ApustuAnitza#irabazitaMarkatu()Z*
+
+ap1domain.ApustuAnitza2irabazitaMarkatu()*
+4
+5*ﬁ
+7p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÎ Î(ﬁ€
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÎ Î( 
+%19"3domain.ApustuAnitza#getApustuak()Ljava/util/Vector;*
+
+ap1domain.ApustuAnitza2getApustuak()*
+4
+6*ã
+8p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÍ Í(
+–Õ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÍ Í('
+%17")domain.ApustuAnitza#getUser()LRegistered;*
+
+ap1domain.ApustuAnitza2	getUser()ª∏
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÍ Í(-
+%18"HdataAccess.DataAccess#apustuaEzabatu(LRegistered;Ldomain/ApustuAnitza;)V*
+dataAccess.DataAccess*
+
+%17*
+
+ap1domain.ApustuAnitza21apustuaEzabatu(LRegistered;Ldomain/ApustuAnitza;)*
+4*Ê
+9p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÈ( È(+ÏÈ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÈ( È(7
+%15java.lang.String"1domain.ApustuAnitza#getEgoera()Ljava/lang/String;*
+
+ap1domain.ApustuAnitza2getEgoera()˜Ù
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÈ( È(I
+%16boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%15java.lang.String*	
+galduta2equals(Ljava/lang/Object;)*
+7
+8*‡
+20p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java◊ ◊(·ﬁ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java◊ ◊(
+%1java.lang.String"-domain.Question#getResult()Ljava/lang/String;*
+
+qdomain.Question2getResult()*
+18*“
+10p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‰! ‰($–Õ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‰! ‰(2
+%10",domain.Quote#getApustuak()Ljava/util/Vector;*
+
+quodomain.Quote2getApustuak()®
+•
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‰ ‰(L#
+apustuAnitzadomain.ApustuAnitza"__id*
+""èå
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÂ4 Â(X
+%11java.lang.Integer">domain.ApustuAnitza#getApustuAnitzaNumber()Ljava/lang/Integer;*%
+#
+apustuAnitzadomain.ApustuAnitza2getApustuAnitzaNumber()ü
+ú
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÂ Â(Z
+ap1domain.ApustuAnitza"__id*
+""–Õ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á((
+%12",domain.Quote#getApustuak()Ljava/util/Vector;*
+
+quodomain.Quote2getApustuak()ÎË
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á(0
+%13"-domain.ApustuAnitza#removeApustua(LApustua;)V*
+
+ap1domain.ApustuAnitza*
+""2removeApustua(LApustua;)ﬁ€
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÈ È(
+%14"3domain.ApustuAnitza#getApustuak()Ljava/util/Vector;*
+
+ap1domain.ApustuAnitza2getApustuak()*
+7
+9*≤
+22p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java“ “(ö
+ó
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java“ “(*
+eventdomain.Event"__id*
+""Â‚
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‘ ‘(-
+%0java.util.Vector"-domain.Event#getQuestions()Ljava/util/Vector;*
+
+eventdomain.Event2getQuestions()Æ
+´
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‘ ‘(.
+listQjava.util.List"__id*
+
+%0java.util.Vector*
+18*“
+11p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java„ „(œÃ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java„ „($
+%9",domain.Quote#getApustuak()Ljava/util/Vector;*
+
+quodomain.Quote2getApustuak()*
+13
+10*‘
+12p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‚ ‚(∫
+∑
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‚% ‚(3
+%8domain.Quote"
+__arrayGet*
+
+listQUOjava.util.List*
+""ò
+ï
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‚ ‚(5
+quodomain.Quote"__id*
+""*
+11:
+evdomain.EventB
+dataAccess.DataAccess

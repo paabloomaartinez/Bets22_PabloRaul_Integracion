@@ -1,0 +1,57 @@
+
+VdataAccess.DataAccess#isLogin(Ljava/lang/String;Ljava/lang/String;)Ldomain/Registered;d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÌ Ì("4*ì
+2d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÏ/ Ï(0"€
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÏ( Ï(1
+
+udomain.Registered*Ð
+3d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÏ Ï(ÝÚ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÏ Ï(
+%2java.lang.String"1domain.Registered#getPassword()Ljava/lang/String;*
+
+udomain.Registered2getPassword()üù
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÏ Ï(&
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.String*
+
+passwordjava.lang.String2equals(Ljava/lang/Object;)*
+2
+1*°
+4d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÍ Í(¹
+¶
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÍ Í(%
+%0javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbÛØ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÍ Í(4
+%1domain.Registered"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
+%
+%0javax.persistence.EntityManager*
+""*
+
+usernamejava.lang.String2)find(Ljava/lang/Class;Ljava/lang/Object;)¢
+Ÿ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÍ Í(5
+udomain.Registered"__id*
+
+%1domain.Registered*
+3
+1*Ù
+1d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÑ	 Ñ("n
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÑ Ñ(
+"":
+usernamejava.lang.String:
+passwordjava.lang.StringB
+dataAccess.DataAccess

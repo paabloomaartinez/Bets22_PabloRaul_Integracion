@@ -1,0 +1,88 @@
+
+.domain.Apustua#galdutaMarkatu(Ldomain/Quote;)Z[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaL L("4*€
+2[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaN N(ë
+é
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaN N(
+domain.Apustua"
+egoera"__id*	
+galduta"e
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaO O(
+""*ß
+3[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM` M(c‘—
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM` M(t
+%6java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+quodomain.Quote2getQuoteNumber()ö
+ó
+\
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM| M(Å
+%7domain.Quote"__id**
+domain.Apustua"
+kuota‘—
+\
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM| M(í
+%8java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+%7domain.Quote2getQuoteNumber()ÒÓ
+\
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM` M(ì
+%9boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
+
+%6java.lang.Integer*
+
+%8java.lang.Integer2equals(Ljava/lang/Object;)*
+2
+1*‘
+
+4[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM M(
+ô
+ñ
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM M(
+
+%0domain.Quote"__id**
+domain.Apustua"
+kuota…∆
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM M(
+%1domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+%0domain.Quote2getQuestion()ﬂ‹
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM M(,
+%2java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
+
+%1domain.Question2getQuestionNumber() «
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM4 M(E
+%3domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+quodomain.Quote2getQuestion()ﬂ‹
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM4 M(Y
+%4java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
+
+%3domain.Question2getQuestionNumber()Ì
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaM M(Z
+%5boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
+
+%2java.lang.Integer*
+
+%4java.lang.Integer2equals(Ljava/lang/Object;)*
+3
+1*«
+1[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaQ	 Q("e
+[
+QC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Apustua.javaQ Q(
+"":
+quodomain.QuoteB
+domain.Apustua

@@ -1,0 +1,2 @@
+dataAccess.DataAccess#isLogin(Ljava/lang/String;Ljava/lang/String;)Ldomain/Registered;
+java.lang.String#equals(Ljava/lang/Object;)Z

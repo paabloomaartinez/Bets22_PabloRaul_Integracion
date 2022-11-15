@@ -1,0 +1,3 @@
+dataAccess.DataAccess#DiruaSartu(Ldomain/Registered;Ldomain/DineroFechaMota;)V
+domain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V
+domain.Transaction#instance-init#

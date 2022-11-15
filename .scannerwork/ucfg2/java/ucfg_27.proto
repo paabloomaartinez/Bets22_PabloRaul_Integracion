@@ -1,0 +1,33 @@
+
+BdataAccess.DataAccess#getEventsTeam(Ldomain/Team;)Ljava/util/List;p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaı ı(!"1*š
+1p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaş	 ş(Ú×
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaş ş(,
+%0java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+teamdomain.Team2
+getIzena()•
+’
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaş ş(.
+tdomain.Team"__id*
+""×Ô
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java€	 €	($
+%1java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+tdomain.Team2
+getIzena()×Ô
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java	 	($
+%2java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+tdomain.Team2
+getIzena()"z
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java‚	 ‚	(
+"":
+teamdomain.TeamB
+dataAccess.DataAccess

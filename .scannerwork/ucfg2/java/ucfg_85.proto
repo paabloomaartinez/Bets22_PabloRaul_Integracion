@@ -1,0 +1,55 @@
+
+3domain.Question#doesQuoteExist(Ljava/lang/String;)Zj
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∑ ∑("5*¡
+2j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∏ ∏(í
+è
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∏ ∏(
+quodomain.Quote"__id*
+""≤
+Ø
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∏ ∏(
+quodomain.Quote"
+__arrayGet*
+
+%0java.util.Vector*
+""*
+4
+1*Â
+3j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∫ ∫("t
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∫ ∫(
+""*‹
+4j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.javaπ π(	€ÿ
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.javaπ π(
+%1java.lang.String",domain.Quote#getForecast()Ljava/lang/String;*
+
+quodomain.Quote2getForecast()ÑÅ
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.javaπ π(+	
+%2int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%1java.lang.String*
+
+forecastjava.lang.String2compareTo(Ljava/lang/String;)*
+2
+3*œ
+5j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∏ ∏(ÿ’
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.java∏ ∏(!
+%0java.util.Vector"-domain.Question#getQuotes()Ljava/util/Vector;*
+domain.Question2getQuotes()*
+2*Â
+1j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.javaæ	 æ("t
+j
+^C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/domain/Question.javaæ æ(
+"":
+forecastjava.lang.StringB
+domain.Question

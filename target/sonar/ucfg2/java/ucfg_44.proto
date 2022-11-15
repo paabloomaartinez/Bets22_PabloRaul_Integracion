@@ -1,0 +1,112 @@
+
+6dataAccess.DataAccess#popularrenaLortu()Ldomain/Sport;d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaò ò("6*±
+2d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(
+‹
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(
+sportdomain.Sport"__id*
+""¬
+©
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaø ø(
+sportdomain.Sport"
+__arrayGet*
+
+spjava.util.List*
+""*
+4
+1*µ
+3d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaû û(›
+˜
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaû û(
+sdomain.Sport"__id*
+
+sportdomain.Sport¦
+£
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaü ü(
+maxjava.lang.Integer"__id*
+
+kontjava.lang.Integer*
+2*…
+4d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(éæ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(#
+%4java.lang.Integer"5domain.Sport#getApustuKantitatea()Ljava/lang/Integer;*
+
+sportdomain.Sport2getApustuKantitatea()¥
+¢
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaù ù(#
+kontjava.lang.Integer"__id*
+
+%4java.lang.Integer*
+2
+3*Ã
+6d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(
+
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó(	
+%0int"__id*
+""–
+“
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaó ó( 
+maxjava.lang.Integer"__id*
+	
+%0intŠ
+‡
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaô ô(
+sdomain.Sport"__id*
+""¹
+¶
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(%
+%1javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbşû
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(R"
+%2javax.persistence.TypedQuery"njavax.persistence.EntityManager#createQuery(Ljava/lang/String;Ljava/lang/Class;)Ljavax/persistence/TypedQuery;*'
+%
+%1javax.persistence.EntityManager*
+SELECT sp FROM Sport sp *
+""20createQuery(Ljava/lang/String;Ljava/lang/Class;)¼
+¹
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaõ õ(S%
+queryjavax.persistence.TypedQuery"__id*$
+"
+%2javax.persistence.TypedQuery÷ô
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaö ö(&
+%3java.util.List"<javax.persistence.TypedQuery#getResultList()Ljava/util/List;*'
+%
+queryjavax.persistence.TypedQuery2getResultList()
+š
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaö ö('
+spjava.util.List"__id*
+
+%3java.util.List’
+
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java÷ ÷(
+kontjava.lang.Integer"__id*
+""*
+2*æ
+1d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ	 ÿ(
+"{
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÿ ÿ(
+
+sdomain.SportB
+dataAccess.DataAccess

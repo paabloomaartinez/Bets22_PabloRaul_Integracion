@@ -1,0 +1,7 @@
+organization=pablomartinezamunarriz
+projectKey=Bets22_Pablo-Raul
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.34156
+dashboardUrl=https://sonarcloud.io/dashboard?id=Bets22_Pablo-Raul
+ceTaskId=AYQaizE2SOZSn3ox9e80
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYQaizE2SOZSn3ox9e80

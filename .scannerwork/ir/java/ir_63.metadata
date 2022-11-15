@@ -1,0 +1,9 @@
+test.EmaitzakIpiniMockIntTest#instance-init#
+businessLogic.BLFacadeImplementation#<init>(LdataAccess/DataAccess;)V
+domain.Question#<init>(Ljava/lang/String;DLdomain/Event;)V
+domain.Team#<init>(Ljava/lang/String;)V
+businessLogic.BLFacadeImplementation#instance-init#
+domain.Team#instance-init#
+domain.Event#instance-init#
+domain.Event#<init>(Ljava/lang/Integer;Ljava/lang/String;Ljava/util/Date;Ldomain/Team;Ldomain/Team;)V
+domain.Question#instance-init#

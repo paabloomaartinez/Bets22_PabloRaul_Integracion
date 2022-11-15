@@ -1,0 +1,16 @@
+
++domain.Event#getEventDate()Ljava/util/Date;Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaM M("1*ñ
+1Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaN	 N(›
+˜
+Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaN	 N(
+%0java.util.Date"__id**
+domain.Event"
+	eventDate"s
+Y
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaN N(
+
+%0java.util.DateB
+domain.Event

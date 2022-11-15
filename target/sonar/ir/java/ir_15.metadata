@@ -1,0 +1,2 @@
+dataAccess.DataAccess#mismaDescripcion(Ljava/lang/String;Ljava/util/Date;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z

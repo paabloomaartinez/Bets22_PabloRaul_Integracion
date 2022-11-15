@@ -1,0 +1,7 @@
+dataAccess.DataAccess#EmaitzakIpini(Ldomain/Quote;)V
+java.util.Date#<init>()V
+dataAccess.DataAccess#calcularApuestas(Ljava/util/Vector;)V
+exceptions.EventNotFinished#instance-init#
+exceptions.EventNotFinished#<init>()V
+java.util.Date#instance-init#
+dataAccess.DataAccess#marcarApuestas(Ldomain/Quote;Ljava/lang/String;)V

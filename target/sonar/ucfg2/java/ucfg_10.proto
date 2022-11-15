@@ -1,0 +1,78 @@
+
+FdataAccess.DataAccess#existQuestion(Ldomain/Event;Ljava/lang/String;)Zd
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÅ Å("1*Ý
+1d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÆ Æ(’
+
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÆ Æ(
+%0java.io.PrintStream"__id*
+""Ð
+Í
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÆ Æ(C
+%1java.lang.String"__concat**(
+&>> DataAccess: existQuestion=> event= *
+
+eventdomain.Event¶
+³
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÆ Æ(Q
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ question= Å
+Â
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÆ Æ(Z
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+questionjava.lang.Stringûø
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÆ Æ([
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+
+%3java.lang.String2println(Ljava/lang/String;)¹
+¶
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÇ Ç(%
+%5javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbßÜ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÇ" Ç(8
+%6java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
+
+eventdomain.Event2getEventNumber()ÑÎ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÇ Ç(9
+%7domain.Event"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
+%
+%5javax.persistence.EntityManager*
+""*
+
+%6java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)™
+–
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÇ Ç(:
+evdomain.Event"__id*
+
+%7domain.EventŒ‰
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÈ	 È((
+%8boolean"4domain.Event#DoesQuestionExists(Ljava/lang/String;)Z*
+
+evdomain.Event*
+
+questionjava.lang.String2&DoesQuestionExists(Ljava/lang/String;)"n
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.javaÈ È()
+"":
+eventdomain.Event:
+questionjava.lang.StringB
+dataAccess.DataAccess

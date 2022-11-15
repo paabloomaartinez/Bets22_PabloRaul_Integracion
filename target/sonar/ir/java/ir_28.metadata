@@ -1,0 +1,11 @@
+dataAccess.DataAccess#ApustuaEgin(Ldomain/DatosApuesta;)Z
+domain.ApustuAnitza#instance-init#
+java.util.Date#<init>()V
+domain.ApustuAnitza#<init>(Ldomain/Registered;Ljava/lang/Double;)V
+domain.DatosApuesta#<init>(Ldomain/Registered;Ljava/util/Vector;DI)V
+domain.Apustua#<init>(Ldomain/ApustuAnitza;Ldomain/Quote;)V
+domain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V
+java.util.Date#instance-init#
+domain.Apustua#instance-init#
+domain.DatosApuesta#instance-init#
+domain.Transaction#instance-init#

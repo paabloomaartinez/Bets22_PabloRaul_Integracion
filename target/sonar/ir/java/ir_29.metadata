@@ -1,0 +1,5 @@
+dataAccess.DataAccess#apustuaEzabatu(Ldomain/Registered;Ldomain/ApustuAnitza;)V
+java.util.Date#<init>()V
+domain.Transaction#<init>(Ldomain/Registered;Ljava/lang/Double;Ljava/util/Date;Ljava/lang/String;)V
+java.util.Date#instance-init#
+domain.Transaction#instance-init#

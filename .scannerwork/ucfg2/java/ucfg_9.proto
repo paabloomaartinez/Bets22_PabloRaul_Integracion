@@ -1,0 +1,63 @@
+
+FdataAccess.DataAccess#existQuestion(Ldomain/Event;Ljava/lang/String;)Zp
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÀ À("1*·
+1p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á(ž
+›
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á(
+%0java.io.PrintStream"__id*
+""Ü
+Ù
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á(C
+%1java.lang.String"__concat**(
+&>> DataAccess: existQuestion=> event= *
+
+eventdomain.EventÂ
+¿
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á(Q
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+ question= Ñ
+Î
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á(Z
+%3java.lang.String"__concat*
+
+%2java.lang.String*
+
+questionjava.lang.String‡„
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÁ Á([
+
+%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*
+
+%3java.lang.String2println(Ljava/lang/String;)ëè
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÂ" Â(8
+%5java.lang.Integer"0domain.Event#getEventNumber()Ljava/lang/Integer;*
+
+eventdomain.Event2getEventNumber()—
+”
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÂ Â(:
+evdomain.Event"__id*
+""˜•
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÃ	 Ã((
+%6boolean"4domain.Event#DoesQuestionExists(Ljava/lang/String;)Z*
+
+evdomain.Event*
+
+questionjava.lang.String2&DoesQuestionExists(Ljava/lang/String;)"z
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.javaÃ Ã()
+"":
+eventdomain.Event:
+questionjava.lang.StringB
+dataAccess.DataAccess

@@ -1,0 +1,3 @@
+dataAccess.DataAccess#storeQuote(Ljava/lang/String;Ljava/lang/Double;Ldomain/Question;)Ldomain/Quote;
+exceptions.QuoteAlreadyExist#<init>(Ljava/lang/String;)V
+exceptions.QuoteAlreadyExist#instance-init#

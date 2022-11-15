@@ -1,0 +1,92 @@
+
+(domain.Event#equals(Ljava/lang/Object;)Z[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaö ö("startingBlock*«
+2[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java£
+ £("e
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java£ £(
+""*‘
+3[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java° °(ò
+ï
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java° °(
+otherdomain.Event"__id*
+
+objjava.lang.Object¢
+ü
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java¢ ¢(
+%2java.lang.Integer"__id*!*
+domain.Event"
+eventNumber©
+¶
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java¢ ¢(&
+%3java.lang.Integer"__id*(*&
+
+otherdomain.Event"
+eventNumber*
+2
+1*±
+startingBlock[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaö ö("•
+¢
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaô ô(
+
+%4"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Objectè
+å
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaö ö(!
+objjava.lang.Object"__annotation*
+
+%4*	
+5
+6
+8*«
+4[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java†
+ †("e
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java† †(
+""*˝
+5[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaü ü(√¿
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaü ü(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.Event2
+getClass()Ã…
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaü ü("
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+3
+4*«
+6[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaû
+ û("e
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaû û(
+""*«
+8[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaú
+ ú("e
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.javaú ú(
+""*«
+1[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java§	 §("e
+[
+OC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/Event.java§ §(
+"":
+objjava.lang.ObjectB
+domain.Event

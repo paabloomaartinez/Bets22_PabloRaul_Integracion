@@ -1,0 +1,53 @@
+
+JdataAccess.DataAccess#findEventFromApustua(Ldomain/Apustua;)Ldomain/Event;d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java± ±(""1*ò
+1d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java² ²(¹
+¶
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java² ²(%
+%0javax.persistence.EntityManager"__id*!*
+dataAccess.DataAccess"
+dbãà
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java²' ²(;
+%1java.lang.Integer"4domain.Apustua#getApostuaNumber()Ljava/lang/Integer;*
+
+qdomain.Apustua2getApostuaNumber()ÓÐ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java² ²(<
+%2domain.Apustua"[javax.persistence.EntityManager#find(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;*'
+%
+%0javax.persistence.EntityManager*
+""*
+
+%1java.lang.Integer2)find(Ljava/lang/Class;Ljava/lang/Object;)ž
+›
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java² ²(=
+quodomain.Apustua"__id*
+
+%2domain.ApustuaËÈ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java³	 ³(
+%3domain.Quote"'domain.Apustua#getKuota()Ldomain/Quote;*
+
+quodomain.Apustua2
+getKuota()ÒÏ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java³	 ³(%
+%4domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+%3domain.Quote2getQuestion()ÌÉ
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java³	 ³(0
+%5domain.Event"(domain.Question#getEvent()Ldomain/Event;*
+
+%4domain.Question2
+getEvent()"|
+d
+XC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/dataAccess/DataAccess.java³ ³(1
+
+%5domain.Event:
+qdomain.ApustuaB
+dataAccess.DataAccess

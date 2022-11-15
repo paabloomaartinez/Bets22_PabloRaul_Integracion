@@ -1,0 +1,26 @@
+
+LdataAccess.DataAccess#findQuestionFromQuote(Ldomain/Quote;)Ldomain/Question;p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java   (&"1*ê
+1p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java¡ ¡(çä
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java¡# ¡(5
+%0java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
+
+qdomain.Quote2getQuoteNumber()˜
+•
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java¡ ¡(7
+quodomain.Quote"__id*
+""ßÜ
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java¢	 ¢(
+%1domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
+
+quodomain.Quote2getQuestion()"‹
+p
+dC:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/dataAccess/DataAccess.java¢ ¢(
+
+%1domain.Question:
+qdomain.QuoteB
+dataAccess.DataAccess

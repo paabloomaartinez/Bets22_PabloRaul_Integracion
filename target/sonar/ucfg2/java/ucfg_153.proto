@@ -1,0 +1,161 @@
+
+;gui.RegisteredGUI#getJButtonDesLogin()Ljavax/swing/JButton;`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‚ ‚(#"3*ã#
+2`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‰! ‰(/Ñ
+Å
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‰! ‰(F
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetasñì
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‰! ‰(\
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+
+DesLogin2getString(Ljava/lang/String;)ïí
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‰ ‰( 
+%3javax.swing.JButton"javax.swing.JButton”
+–
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‰ ‰(]
+%4"/javax.swing.JButton#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JButton*
+
+%2java.lang.String≤
+Ø
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java‰ ‰(](
+gui.RegisteredGUI"
+jButtonDesLogin"__id*
+
+%3javax.swing.JButton≤
+Ø
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÂ Â(
+%5javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLogin}
+{
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÂ. Â(8	
+%6int"__id*
+""âÜ
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÂ Â(#
+%7java.awt.Font"java.awt.FontŒ
+À
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÂ Â(=
+%8"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%7java.awt.Font*
+
+Tahoma*
+	
+%6int*2ÒÓ
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÂ Â(>
+
+%9void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%5javax.swing.JButton*
+
+%7java.awt.Font2setFont(Ljava/awt/Font;)≥
+∞
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÊ Ê(
+%10javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLoginä
+á
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÊ! Ê(,
+%11java.awt.Color"__id*
+""ÉÄ
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÊ Ê(-
+%12void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%10javax.swing.JButton*
+
+%11java.awt.Color2setForeground(Ljava/awt/Color;)≥
+∞
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÁ Á(
+%13javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLoginä
+á
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÁ! Á(0
+%14java.awt.Color"__id*
+""ÉÄ
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÁ Á(1
+%15void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%13javax.swing.JButton*
+
+%14java.awt.Color2setBackground(Ljava/awt/Color;)≥
+∞
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaË Ë(
+%16javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLoginñì
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaË) Ë(7
+%17gui.RegisteredGUI$7"gui.RegisteredGUI$7¶
+£
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaË% Ó(
+%18"java.lang.Object#<init>()V*
+
+%17gui.RegisteredGUI$7≤Ø
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaË Ó(
+%19void"Njavax.swing.AbstractButton#addActionListener(Ljava/awt/event/ActionListener;)V*
+
+%16javax.swing.JButton*
+
+%17gui.RegisteredGUI$722addActionListener(Ljava/awt/event/ActionListener;)≥
+∞
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÔ Ô(
+%20javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLogin·ﬁ
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÔ Ô(/
+%21void"#java.awt.Component#setBounds(IIII)V*
+
+%20javax.swing.JButton*2”*2‰*2ü*212setBounds(IIII)*
+1*¢
+3`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java„ „(≤
+Ø
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.java„ „(
+%0javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLogin*
+2
+1*û
+1`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÒ	 Ò(≥
+∞
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÒ	 Ò(
+%22javax.swing.JButton"__id***(
+gui.RegisteredGUI"
+jButtonDesLogin"Ä
+`
+TC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/gui/RegisteredGUI.javaÒ Ò(
+
+%22javax.swing.JButtonB
+gui.RegisteredGUI

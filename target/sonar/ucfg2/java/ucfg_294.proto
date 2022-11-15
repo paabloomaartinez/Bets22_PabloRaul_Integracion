@@ -1,0 +1,184 @@
+
+hdomain.TeamRenderer#getListCellRendererComponent(Ljavax/swing/JList;Ldomain/Team;ZZ)Ljava/awt/Component;`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (2"4*–
+2`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java#
+ #(ÔÏ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java# #(5
+%19java.awt.Color":javax.swing.JList#getSelectionBackground()Ljava/awt/Color;*
+
+listjavax.swing.JList2getSelectionBackground()˛˚
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java#
+ #(6
+%20void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+domain.TeamRenderer*
+
+%19java.awt.Color2setBackground(Ljava/awt/Color;)ÔÏ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java$ $(8
+%21java.awt.Color":javax.swing.JList#getSelectionForeground()Ljava/awt/Color;*
+
+listjavax.swing.JList2getSelectionForeground()˛˚
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java$ $(9
+%22void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+domain.TeamRenderer*
+
+%21java.awt.Color2setForeground(Ljava/awt/Color;)*
+1*Í
+
+3`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java   (ÔÏ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java   (6
+%13java.awt.Color":javax.swing.JList#getSelectionBackground()Ljava/awt/Color;*
+
+listjavax.swing.JList2getSelectionBackground()ä
+á
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java   (;
+%14java.awt.Color"__id*
+""˛˚
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java   (<
+%15void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+domain.TeamRenderer*
+
+%14java.awt.Color2setBackground(Ljava/awt/Color;)ÔÏ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java! !(9
+%16java.awt.Color":javax.swing.JList#getSelectionForeground()Ljava/awt/Color;*
+
+listjavax.swing.JList2getSelectionForeground()ä
+á
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java! !(?
+%17java.awt.Color"__id*
+""˛˚
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java! !(@
+%18void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+domain.TeamRenderer*
+
+%17java.awt.Color2setForeground(Ljava/awt/Color;)*
+1*Ë
+4`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java+ (M «
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.javaN (]
+%0java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+teamdomain.Team2
+getIzena()«
+ƒ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java+ (]
+%1java.lang.String"__concat*$"
+ .\\src/main/resources\\Equipos\\*
+
+%0java.lang.String´
+®
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java+ (d
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+.pngôñ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java! (*
+%3javax.swing.ImageIcon"javax.swing.ImageIcon◊
+‘
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (e
+%4"1javax.swing.ImageIcon#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.ImageIcon*
+
+%2java.lang.StringÆ
+´
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (f"
+	imageIconjavax.swing.ImageIcon"__id*
+
+%3javax.swing.ImageIconﬂ‹
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java ()
+%5java.awt.Image"0javax.swing.ImageIcon#getImage()Ljava/awt/Image;*$
+"
+	imageIconjavax.swing.ImageIcon2
+getImage()ú
+ô
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (*
+imagejava.awt.Image"__id*
+
+%5java.awt.Image}
+{
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java6 (H	
+%6int"__id*
+""˛˚
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (I
+%7java.awt.Image"5java.awt.Image#getScaledInstance(III)Ljava/awt/Image;*
+
+imagejava.awt.Image*2Z*2Z*
+	
+%6int2getScaledInstance(III)ù
+ö
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (J
+newimgjava.awt.Image"__id*
+
+%7java.awt.Imageôñ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java ( 
+%8javax.swing.ImageIcon"javax.swing.ImageIcon◊
+‘
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java ((
+%9"/javax.swing.ImageIcon#<init>(Ljava/awt/Image;)V*
+
+%8javax.swing.ImageIcon*
+
+newimgjava.awt.ImageÆ
+´
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (("
+	imageIconjavax.swing.ImageIcon"__id*
+
+%8javax.swing.ImageIconˇ¸
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java
+ (
+%10void"/javax.swing.JLabel#setIcon(Ljavax/swing/Icon;)V*
+domain.TeamRenderer*$
+"
+	imageIconjavax.swing.ImageIcon2setIcon(Ljavax/swing/Icon;)À»
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java (!
+%11java.lang.String"(domain.Team#getIzena()Ljava/lang/String;*
+
+teamdomain.Team2
+getIzena()ÙÒ
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java
+ ("
+%12void"/javax.swing.JLabel#setText(Ljava/lang/String;)V*
+domain.TeamRenderer*
+
+%11java.lang.String2setText(Ljava/lang/String;)*
+2
+3*‚
+1`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java' '("{
+`
+VC:/Users/USER/Escritorio/UNI/IS2/workspace/bets/src/main/java/domain/TeamRenderer.java'	 '(
+domain.TeamRenderer:
+listjavax.swing.JList:
+teamdomain.Team:
+"":
+""B
+domain.TeamRenderer

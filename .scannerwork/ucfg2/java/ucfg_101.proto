@@ -1,0 +1,172 @@
+
+6gui.RegisteredGUI#getLblNewLabel()Ljavax/swing/JLabel;l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaê ê("3*Æ&
+2l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaí# í(1ê
+ç
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaí# í(H
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas¶£
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaí# í(b
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+SelectOption2getString(Ljava/lang/String;)üú
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaí í("
+%3javax.swing.JLabel"javax.swing.JLabel›
+⁄
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaí í(c
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+
+%2java.lang.String¿
+Ω
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaí í(c+
+gui.RegisteredGUI"
+jLabelSelectOption"__id*
+
+%3javax.swing.JLabel¿
+Ω
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaì ì(
+%5javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOption”–
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaì ì(%
+
+%6void"$javax.swing.JComponent#setOpaque(Z)V*
+
+%5javax.swing.JLabel*22setOpaque(Z)¿
+Ω
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaî î(
+%7javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionï
+í
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaî$ î(.
+%8java.awt.Color"__id*
+""ãà
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaî î(/
+
+%9void"7javax.swing.JComponent#setBackground(Ljava/awt/Color;)V*
+
+%7javax.swing.JLabel*
+
+%8java.awt.Color2setBackground(Ljava/awt/Color;)¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaï ï(
+%10javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionÎË
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaï ï(1
+%11void"#java.awt.Component#setBounds(IIII)V*
+
+%10javax.swing.JLabel*2°*2*2±*2:2setBounds(IIII)¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javañ ñ(
+%12javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionã
+à
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javañ1 ñ(:
+
+%13int"__id*
+""ñì
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javañ" ñ(&
+%14java.awt.Font"java.awt.Font›
+⁄
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javañ ñ(?
+%15"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%14java.awt.Font*
+
+Tahoma*
+
+
+%13int*2ˇ¸
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javañ ñ(@
+%16void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%12javax.swing.JLabel*
+
+%14java.awt.Font2setFont(Ljava/awt/Font;)¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaó ó(
+%17javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionñ
+ì
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaó$ ó(/
+%18java.awt.Color"__id*
+""éã
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaó ó(0
+%19void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%17javax.swing.JLabel*
+
+%18java.awt.Color2setForeground(Ljava/awt/Color;)¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaò ò(
+%20javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOptionã
+à
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaò- ò(B
+
+%21int"__id*
+""Û
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaò ò(C
+%22void"-javax.swing.JLabel#setHorizontalAlignment(I)V*
+
+%20javax.swing.JLabel*
+
+
+%21int2setHorizontalAlignment(I)*
+1*º
+3l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaë ë(¿
+Ω
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaë ë(
+%0javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOption*
+2
+1*√
+1l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaö	 ö(¡
+æ
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaö	 ö(
+%23javax.swing.JLabel"__id*-*+
+gui.RegisteredGUI"
+jLabelSelectOption"ã
+l
+`C:/Users/USER/Escritorio/UNI/IS2/workspace/Bet22Lite-master/src/main/java/gui/RegisteredGUI.javaö ö(
+
+%23javax.swing.JLabelB
+gui.RegisteredGUI
