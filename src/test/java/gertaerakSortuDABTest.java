@@ -11,7 +11,7 @@ import dataAccess.DataAccess;
 import domain.Event;
 
 public class gertaerakSortuDABTest {
-
+/*
 	private DataAccess dt = new DataAccess();
 	Calendar today = Calendar.getInstance();
 	private String descripcion;
@@ -177,4 +177,5 @@ public class gertaerakSortuDABTest {
 			System.out.println("Evento no borrado (" + descripcion + ", " + date + ", " + s + ")");
 				
 	}
+	*/
 }

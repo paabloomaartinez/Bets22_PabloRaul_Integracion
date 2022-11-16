@@ -48,19 +48,19 @@ public class BLFacadeImplementation  implements BLFacade {
 		
 <span class="nc" id="L49">	}</span>
 	
-<span class="fc" id="L51">    public BLFacadeImplementation(DataAccess da)  {</span>
+<span class="nc" id="L51">    public BLFacadeImplementation(DataAccess da)  {</span>
 		
-<span class="fc" id="L53">		System.out.println(&quot;Creating BLFacadeImplementation instance with DataAccess parameter&quot;);</span>
-<span class="fc" id="L54">		ConfigXML c=ConfigXML.getInstance();</span>
+<span class="nc" id="L53">		System.out.println(&quot;Creating BLFacadeImplementation instance with DataAccess parameter&quot;);</span>
+<span class="nc" id="L54">		ConfigXML c=ConfigXML.getInstance();</span>
 		
-<span class="pc bpc" id="L56" title="1 of 2 branches missed.">		if (c.getDataBaseOpenMode().equals(&quot;initialize&quot;)) {</span>
-<span class="fc" id="L57">			da.open(true);</span>
-<span class="fc" id="L58">			da.initializeDB();			</span>
-<span class="fc" id="L59">			da.close();</span>
+<span class="nc bnc" id="L56" title="All 2 branches missed.">		if (c.getDataBaseOpenMode().equals(&quot;initialize&quot;)) {</span>
+<span class="nc" id="L57">			da.open(true);</span>
+<span class="nc" id="L58">			da.initializeDB();			</span>
+<span class="nc" id="L59">			da.close();</span>
 
 		}
-<span class="fc" id="L62">		dbManager=da;</span>
-<span class="fc" id="L63">	}</span>
+<span class="nc" id="L62">		dbManager=da;</span>
+<span class="nc" id="L63">	}</span>
 	
 
 	/**

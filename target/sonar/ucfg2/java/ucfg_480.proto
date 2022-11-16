@@ -1,37 +1,37 @@
 
 .domain.Apustua#galdutaMarkatu(Ldomain/Quote;)ZS
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaK K("4*√
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaI I("4*√
 2S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaM M(â
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaK K(â
 Ü
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaM M(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaK K(
 domain.Apustua"
 egoera"__id*	
 galduta"]
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaN N(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L(
 ""*ˇ
 3S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL` L(cÃ…
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ` J(cÃ…
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL` L(t
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ` J(t
 %6java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
 
 quodomain.Quote2getQuoteNumber()í
 è
 T
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL| L(Å
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ| J(Å
 %7domain.Quote"__id**
 domain.Apustua"
 kuotaÃ…
 T
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL| L(í
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ| J(í
 %8java.lang.Integer"0domain.Quote#getQuoteNumber()Ljava/lang/Integer;*
 
 %7domain.Quote2getQuoteNumber()ÈÊ
 T
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL` L(ì
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ` J(ì
 %9boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
 
 %6java.lang.Integer*
@@ -41,37 +41,37 @@ IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL` L
 1*ú
 
 4S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ J(
 ë
 é
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ J(
 
 %0domain.Quote"__id**
 domain.Apustua"
 kuota¡æ
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ J(
 %1domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
 
 %0domain.Quote2getQuestion()◊‘
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L(,
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ J(,
 %2java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
 
 %1domain.Question2getQuestionNumber()¬ø
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL4 L(E
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ4 J(E
 %3domain.Question"+domain.Quote#getQuestion()Ldomain/Question;*
 
 quodomain.Quote2getQuestion()◊‘
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL4 L(Y
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ4 J(Y
 %4java.lang.Integer"6domain.Question#getQuestionNumber()Ljava/lang/Integer;*
 
 %3domain.Question2getQuestionNumber()ËÂ
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L(Z
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaJ J(Z
 %5boolean"-java.lang.Integer#equals(Ljava/lang/Object;)Z*
 
 %2java.lang.Integer*
@@ -80,9 +80,9 @@ IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaL L
 3
 1*∑
 1S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaP	 P("]
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaN	 N("]
 S
-IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaP P(
+IC:/Users/USER/Escritorio/workspace/bets/src/main/java/domain/Apustua.javaN N(
 "":
 quodomain.QuoteB
 domain.Apustua

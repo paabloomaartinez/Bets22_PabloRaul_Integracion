@@ -21,7 +21,7 @@ import domain.Team;
 import exceptions.EventFinished;
 
 public class gertaerakSortuMockTest {
-	
+/*	
 	@Mock
 	DataAccess da;
 	
@@ -155,4 +155,5 @@ public class gertaerakSortuMockTest {
 			e.printStackTrace();
 		}
 	}
+	*/
 }

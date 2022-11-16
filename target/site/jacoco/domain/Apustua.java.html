@@ -4,10 +4,8 @@ import java.io.Serializable;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
-import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import javax.persistence.OneToMany;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlID;
@@ -30,73 +28,73 @@ public class Apustua implements Serializable{
 	private String egoera;
 	
 	public Apustua(ApustuAnitza ap, Quote q) {
-<span class="fc" id="L33">		super();</span>
-<span class="fc" id="L34">		this.apustuAnitza=ap;</span>
-<span class="fc" id="L35">		this.kuota=q;</span>
-<span class="fc" id="L36">		this.egoera=&quot;jokoan&quot;;</span>
-<span class="fc" id="L37">	}</span>
+<span class="fc" id="L31">		super();</span>
+<span class="fc" id="L32">		this.apustuAnitza=ap;</span>
+<span class="fc" id="L33">		this.kuota=q;</span>
+<span class="fc" id="L34">		this.egoera=&quot;jokoan&quot;;</span>
+<span class="fc" id="L35">	}</span>
 	
 	public Apustua() {
-<span class="fc" id="L40">		super();</span>
-<span class="fc" id="L41">	}</span>
+<span class="fc" id="L38">		super();</span>
+<span class="fc" id="L39">	}</span>
 
 	public Integer getApostuaNumber() {
-<span class="nc" id="L44">		return apustuaNumber;</span>
+<span class="nc" id="L42">		return apustuaNumber;</span>
 	}
 
 	public void setApostuaNumber(Integer apustuaNumber) {
-<span class="nc" id="L48">		this.apustuaNumber = apustuaNumber;</span>
-<span class="nc" id="L49">	}</span>
+<span class="nc" id="L46">		this.apustuaNumber = apustuaNumber;</span>
+<span class="nc" id="L47">	}</span>
 
 	public Quote getKuota() {
-<span class="fc" id="L52">		return kuota;</span>
+<span class="fc" id="L50">		return kuota;</span>
 	}
 
 	public void setKuota(Quote kuota) {
-<span class="nc" id="L56">		this.kuota = kuota;</span>
-<span class="nc" id="L57">	}</span>
+<span class="nc" id="L54">		this.kuota = kuota;</span>
+<span class="nc" id="L55">	}</span>
 
 	public String getEgoera() {
-<span class="fc" id="L60">		return egoera;</span>
+<span class="fc" id="L58">		return egoera;</span>
 	}
 
 	public void setEgoera(String egoera) {
-<span class="fc" id="L64">		this.egoera = egoera;</span>
-<span class="fc" id="L65">	}</span>
+<span class="fc" id="L62">		this.egoera = egoera;</span>
+<span class="fc" id="L63">	}</span>
 	
 	public ApustuAnitza getApustuAnitza() {
-<span class="fc" id="L68">		return apustuAnitza;</span>
+<span class="fc" id="L66">		return apustuAnitza;</span>
 	}
 
 	public void setApustuAnitza(ApustuAnitza apustuAnitza) {
-<span class="nc" id="L72">		this.apustuAnitza = apustuAnitza;</span>
-<span class="nc" id="L73">	}</span>
+<span class="nc" id="L70">		this.apustuAnitza = apustuAnitza;</span>
+<span class="nc" id="L71">	}</span>
 	
 	public boolean galdutaMarkatu(Quote quo) {
-<span class="pc bpc" id="L76" title="2 of 4 branches missed.">		if(kuota.getQuestion().getQuestionNumber().equals(quo.getQuestion().getQuestionNumber()) &amp;&amp; !(quo.getQuoteNumber().equals(kuota.getQuoteNumber()))) {</span>
-<span class="nc" id="L77">			this.egoera=&quot;galduta&quot;;</span>
-<span class="nc" id="L78">			return true;</span>
+<span class="pc bpc" id="L74" title="2 of 4 branches missed.">		if(kuota.getQuestion().getQuestionNumber().equals(quo.getQuestion().getQuestionNumber()) &amp;&amp; !(quo.getQuoteNumber().equals(kuota.getQuoteNumber()))) {</span>
+<span class="nc" id="L75">			this.egoera=&quot;galduta&quot;;</span>
+<span class="nc" id="L76">			return true;</span>
 		}
-<span class="fc" id="L80">		return false;</span>
+<span class="fc" id="L78">		return false;</span>
 	}
 	
 	public void eguneratuApustuKant(Sport s) {
-<span class="nc" id="L84">		s.eguneratuApustuKantitatea();</span>
-<span class="nc" id="L85">	}</span>
+<span class="nc" id="L82">		s.eguneratuApustuKantitatea();</span>
+<span class="nc" id="L83">	}</span>
 	
 	@Override
 	public boolean equals(Object o) {
-<span class="nc bnc" id="L89" title="All 2 branches missed.">		if(o==null) {</span>
-<span class="nc" id="L90">			return false;</span>
+<span class="nc bnc" id="L87" title="All 2 branches missed.">		if(o==null) {</span>
+<span class="nc" id="L88">			return false;</span>
 		}
-<span class="nc bnc" id="L92" title="All 2 branches missed.">		if(this.getClass() != o.getClass())</span>
-<span class="nc" id="L93">			return false;</span>
-<span class="nc" id="L94">		Apustua a = (Apustua) o;</span>
-<span class="nc" id="L95">		return this.getApostuaNumber().equals(a.getApostuaNumber()); </span>
+<span class="nc bnc" id="L90" title="All 2 branches missed.">		if(this.getClass() != o.getClass())</span>
+<span class="nc" id="L91">			return false;</span>
+<span class="nc" id="L92">		Apustua a = (Apustua) o;</span>
+<span class="nc" id="L93">		return this.getApostuaNumber().equals(a.getApostuaNumber()); </span>
 	}
 	@Override
 	public int hashCode() {
-<span class="nc" id="L99">		return hashCode();</span>
+<span class="nc" id="L97">		return hashCode();</span>
 	}
 }
 </pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.8.202204050719</span></div></body></html>
